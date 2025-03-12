@@ -29,7 +29,7 @@ This project utilizes RAG (Retrieval-Augmented Generation) technology, integrati
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/shengliuyang/Heritage-graphRAG.git
 cd Heritage-graphRAG
 ```
 
