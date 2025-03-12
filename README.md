@@ -97,7 +97,7 @@ python web.py
 
 2. Vector Database Configuration:
    - Data storage path configured in `web.py` and `iu_chat_2.py`
-   - Default path: `/mnt/f/chroma_data`
+   - Default path: `chroma_data`
 
 ## Data Processing Tools
 
