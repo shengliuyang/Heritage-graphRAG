@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  chromadb:
+    image: chromadb/chroma
+    container_name: chromadb
+    ports:
+      - "8000:8000" # ChromaDB 默认 REST API 端口
+    volumes:
+      - ./chroma_data:/chroma_data # 本地持久化数据
+    environment:
+      - CHROMA_PERSIST_DIRECTORY=/chroma_data

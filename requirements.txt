@@ -1,0 +1,15 @@
+streamlit==1.32.0
+langchain==0.1.12
+langchain-community==0.0.27
+chromadb==0.4.24
+neo4j==5.17.0
+jieba==0.42.1
+python-docx==1.1.0
+pypdf==4.1.0
+ffmpeg-python==0.2.0
+openai-whisper==20231117
+tqdm==4.66.2
+flask==3.0.2
+ollama==0.1.6
+python-dotenv==1.0.1
+markdown==3.5.2 
